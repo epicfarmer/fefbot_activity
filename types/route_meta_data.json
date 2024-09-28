@@ -1,0 +1,9 @@
+{
+	"/": [],
+	"/discord": [
+		"src/routes/discord/+server.ts"
+	],
+	"/discord/token": [
+		"src/routes/discord/token/+server.ts"
+	]
+}
